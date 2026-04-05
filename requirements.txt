@@ -1,0 +1,1 @@
+conda install typing math pytorch torchvision torchaudio cpuonly matplotlib numpy -c pytorch -c conda-forge -y
